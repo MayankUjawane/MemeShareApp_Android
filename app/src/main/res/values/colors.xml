@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5FC318</color>
+    <color name="colorPrimaryDark">#6200EE</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="buttonColor">#5FC318</color>
+    <color name="progressBar">#CC1818</color>
+
+</resources>
